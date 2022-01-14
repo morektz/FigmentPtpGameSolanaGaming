@@ -11,6 +11,6 @@ This repo is going to research Solana Gaming.
 
 Will be following this tutorial  -  [Figment - Build a pay-to-play gaming platform on Solana](https://learn.figment.io/tutorials/pay-to-play-gaming-on-solana)
 
-Intitially came to know about this from - [SoldevApp](soldev.app/library/tutorials/1pnewKJ7g )
+Intitially came to know about this from - [SoldevApp - Build a pay-to-play gaming platform](https://soldev.app/library/tutorials/1pnewKJ7g)
 
 # To Do... 

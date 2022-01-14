@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FqbSolanaMyMoney&count_bg=%23750550&title_bg=%23000000&icon=postwoman.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 # Fri 14 Jan 2022 02:09:08 PM UTC
 

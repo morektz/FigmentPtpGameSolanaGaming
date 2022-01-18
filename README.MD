@@ -13,4 +13,9 @@ Will be following this tutorial  -  [Figment - Build a pay-to-play gaming platfo
 
 Intitially came to know about this from - [SoldevApp - Build a pay-to-play gaming platform](https://soldev.app/library/tutorials/1pnewKJ7g)
 
-# To Do... 
+# Docs 
+
+|N|Desc|Link|
+|:--|:--:|--:|
+|1| Installation Notes |[▶️](docz/install.md)|
+|2| Errors & Resolutions |[▶️](docz/errata.md)|

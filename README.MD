@@ -1,4 +1,10 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FFigmentPtpGameSolanaGaming&count_bg=%233E065F&title_bg=%23000000&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+```
+WARNING ! USING THE CONTENTS OF THIS REPO IN YOUR MAIN SOLANA DEV ENV WILL COMPLTELY FCK UP YOU WORK !! DO NOT USE!
+```
+
+<p align="center"><a href="https://bit.ly/morektz" target="_blank">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FFigmentPtpGameSolanaGaming&count_bg=%233E065F&title_bg=%23000000&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</p>
 
 # Fri 14 Jan 2022 02:09:08 PM UTC
 
